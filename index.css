@@ -1,0 +1,22 @@
+#povuciDiv {
+    color:  white;
+    position: absolute;
+    cursor: move;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(13, 255, 0, 0.368);
+    
+}
+
+#ubaciDiv {
+    color:  white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background: rgba(0, 255, 72, 0.304);
+    width: 200px;
+    height: 200px;
+    
+}
